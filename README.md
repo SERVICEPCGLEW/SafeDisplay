@@ -1,5 +1,7 @@
 # ⚡ SafeDisplay
 
+![Interfaz de SafeDisplay](screenshot.png)
+
 SafeDisplay es una herramienta ligera y elegante para Windows diseñada específicamente para pantallas y monitores con daños físicos (líneas verticales rotas, manchas, golpes).
 Crea un **borde negro seguro** que cubre las zonas dañadas de tu pantalla y delimita un nuevo "cuadro seguro" utilizable. Al hacerlo, permite que todas tus aplicaciones se maximicen respetando ese nuevo espacio sin meterse en la zona rota.
 
