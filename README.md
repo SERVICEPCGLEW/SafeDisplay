@@ -22,4 +22,4 @@ Para compilarlo tú mismo, simplemente ejecuta el archivo `build.bat` incluido. 
 
 ---
 **© Service PC Glew 2026**
-👍 [Apoyar el proyecto (Matecito / Cafecito)](https://cafecito.app/servicepcglew)
+👍 [Apoyar el proyecto (Matecito)](https://matecito.co/servicepcglew)

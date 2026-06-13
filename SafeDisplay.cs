@@ -643,8 +643,8 @@ namespace SafeDisplay
             donateButton.Location = new Point(20, 448);
             donateButton.Cursor = Cursors.Hand;
             donateButton.Click += (s, e) => {
-                // Abre el link de donación en el navegador (cafecito/matecito)
-                System.Diagnostics.Process.Start("https://cafecito.app/servicepcglew");
+                // Abre el link de donación en el navegador (matecito)
+                System.Diagnostics.Process.Start("https://matecito.co/servicepcglew");
             };
             rightPanel.Controls.Add(donateButton);
 
